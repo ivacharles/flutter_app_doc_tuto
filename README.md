@@ -6,4 +6,4 @@ This project uses a listview object to show the player and their stats. Also whe
 
 Here is screenshot of the app
 
-![Screenshot of the app](/main/images/Novak_djokovic.jpeg "Screenshot of the app")
+![Screenshot of the app](/images/Novak_djokovic.jpeg "Screenshot of the app")
